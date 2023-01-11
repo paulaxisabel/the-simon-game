@@ -1,4 +1,4 @@
-# The Simon Game: <a href="https://simongame.vercel.app/" target="_blank">Visit Here</a>
+# The Simon Game: <a href="https://thesimongame.vercel.app/" target="_blank">Visit Here</a>
 
 The Simon Game is a memory game. Remember the color pattern and repeat it correctly. Following a slow start, the patterns become more difficult with each round, increasing the excitement.
 
